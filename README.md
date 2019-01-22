@@ -1,11 +1,11 @@
 # BAE305-Sp19-Lab1
 Introduction to lab equipment
 
-# Lab 1 - Well-Equipped
+# Lab 1 - Introduction, DC Components, and Lab Equipment
 
 # By: Jordan Luciano and Abby Olaleye
 # Summary
-Lab goal; summary of work performed; summary of outcome
+Learn to use electronic testing equipment that will be used for future labs. Equipment used includes Digital Multimeter (DMM), a Dedicated Capacitance Meter (DCM), an Oscilloscope (O-scope), a Function Generator (FG), and a Direct Current Power Suuply (DCPS); summary of work performed; summary of outcome
 Lab 1 will be somewhat different since this is an introduction to the equipment.
 # Materials
 List materials used in the lab (not the testing equipment, but that used to build the lab project)
