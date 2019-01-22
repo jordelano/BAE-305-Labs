@@ -43,6 +43,9 @@ Global Specialties Instruments - Function Generator
 3. Measure the actual voltage output of the DCPS with the DMM probes and record those valuues - compare with DCPS expected values - turn off and unplug equipment;
 4. Measure the amplitude of the sine waves from peak to peak using the following methods: 1) counting squares, 2) using moveable cursors, and 3) using measurement features - finally, use the 4) generic DMM, & 5) Fluke DMM to measure the voltage output by the wires on the proto board - record each value - compare instrument measurements - turn off and unplug equipment
 
+# Results
+
+
 # Lab Questions Answered
 1. The Fluke DMM measured values within the tolerance range of the expected resistor values, as did the generic DMM. The two DMM approximately agreed with each other.
 2. The Fluke DMM and BK Precision 815 DCM approximately agreed with each other and with the expected value, but the Fluke was not able to measure the smallest capacitance, as its value for the .01μF capacitor was not within range. In this case, the DCM was used and agreed with the expected value of the capacitor. 								
