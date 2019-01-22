@@ -44,4 +44,4 @@ Global Specialties Instruments - Function Generator
 In conclusion, the equipment designated and designed to measure specific quanitities was more accurate and precise in reporting values of voltage, resistance, and capacitance. Something else to note is that the quality of the measurement equipment had an impact on the accuracy of the values produced when compared to the expected values of the given electrical circuit components. When equipment is cheaper, it may not be physically capable of measuring values without error.
 
 # Discussion
-There were no alterations to the initial set up of the experiment that would impact the results.
+There were no intended alterations to the initial set up of the experiment that would impact the results.
