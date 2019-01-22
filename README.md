@@ -3,7 +3,7 @@ Introduction to lab equipment
 
 # Lab 1 - Introduction, DC Components, and Lab Equipment
 
-# By: Jordan Luciano and Abby Olaleye
+# By: Jordan Luciano
 
 # Summary
 Learn to use electronic testing equipment that will be used for future labs. Equipment used includes Digital Multimeter (DMM), a Dedicated Capacitance Meter (DCM), an Oscilloscope (O-scope), a Function Generator (FG), and a Direct Current Power Suuply (DCPS); Measure and verify resistance of four resistors, capacitance of 4 capacitors, voltage output of DCPS, and function generator output, then compare results according to equipment used for measuring the outputs; The higher quality DMM (Fluke) was best for accurate measurements of the various circuit components in comparison to the generic DMM, but the Fluke was not as accurate or able to measure the small capacitance that the DCM could. Overall, the Fluke was most accurate when compared to the expected values or those shown on the output equipment.  
