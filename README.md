@@ -18,7 +18,7 @@ Capacitors:
 10μF;
 1μF;
 100μF;
-0.01μF
+0.01μF;
 Components:
 Black and red leads with alligator clamps and banana plugs;
 Black and red leads with probes
