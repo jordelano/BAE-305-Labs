@@ -43,7 +43,13 @@ Global Specialties Instruments - Function Generator
 3. Measure the actual voltage output of the DCPS with the DMM probes and record those valuues - compare with DCPS expected values - turn off and unplug equipment;
 4. Measure the amplitude of the sine waves from peak to peak using the following methods: 1) counting squares, 2) using moveable cursors, and 3) using measurement features - finally, use the 4) generic DMM, & 5) Fluke DMM to measure the voltage output by the wires on the proto board - record each value - compare instrument measurements - turn off and unplug equipment
 
-# Test Results and Lab Questions Answered
+# Lab Questions Answered
+1. The Fluke DMM measured values within the tolerance range of the expected resistor values, as did the generic DMM. The two DMM approximately agreed with each other.
+2. The Fluke DMM and BK Precision 815 DCM approximately agreed with each other and with the expected value, but the Fluke was not able to measure the smallest capacitance, as its value for the .01μF capacitor was not within range. In this case, the DCM was used and agreed with the expected value of the capacitor. 								
+3. The Fluke DMM and the DCPS approximately agree with each other. The DMM gives a more accurate and precise measurement because the DC Power Supply has a gage with wide increments on it, not allowing for many significant figures to be recorded.
+4. The values measured using the O-scope do not agree with the values measured using the generic DMM or the Fluke DMM. The best method using the O-scope seemed to be using the moveable cursors or the measurement features. Counting the squares on the O-scope gave a very close approximation. The generic DMM did not come close to the correct output voltage of the sine waves, and while the Fluke DMM was within -1.1V of the actual output voltage, it was still not close enough to the actual amplitude voltage.
+
+# Test Results
 In conclusion, the equipment designated and designed to measure specific quanitities was more accurate and precise in reporting values of voltage, resistance, and capacitance. Something else to note is that the quality of the measurement equipment had an impact on the accuracy of the values produced when compared to the expected values of the given electrical circuit components. When equipment is cheaper, it may not be physically capable of measuring values without error.
 
 # Discussion
