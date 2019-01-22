@@ -25,10 +25,10 @@ Black and red leads with probes;
 Proto board
 
 # Assembly Procedures
-1. Collect 4 resistors and use color code to determine expected resistances and record those values - turn on Fluke DMM and generic DMM and set to measure Ohms (may need to adjust to kilo-Ohms or Mega-Ohms) - measure actual resistance of resistors and record those values - compare to expected values as well as tolerance values - turn off equipment; 
-2. Collect 4 capacitors and use code to determine expected capacitances and record those values - turn on Fluke DMM and DCM and set to measure Farads (may need to adjust to measure micro-Farads) - measure actual capacitance of capacitors and record those values - compare to expected values as well as tolerance values - turn off equipment; 
-3. Plug in DCPS, turn it on - set V1 and V2 output voltage to +1.5V, +7.0V, and +12.0V simultaneously as three separate trials, respectively - turn on Fluke DMM and set to measure voltage - measure the actual voltage output of the DCPS and record those valuues - compare with DCPS expected values - turn off and unplug equipment; 
-4. Connect FG to proto board - set to produce 2kHz sine wave - adjust O-scope to show maximum amplitude - adjust O-scope so that the amplitude of the waves can be measured using the following methods: 1) counting squares, 2) using moveable cursors, 3) using measurement features - finally, use the 4) generic DMM, & 5) Fluke DMM to measure the voltage output by the wires on the proto board - record each value - compare instrument measurements - turn off and unplug equipment
+1. Collect 4 resistors and use color code to determine expected resistances and record those values - turn on Fluke DMM and generic DMM and set to measure Ohms (may need to adjust to kilo-Ohms or Mega-Ohms); 
+2. Collect 4 capacitors and use code to determine expected capacitances and record those values - turn on Fluke DMM and DCM and set to measure Farads (may need to adjust to measure micro-Farads); 
+3. Plug in DCPS, turn it on - set V1 and V2 output voltage to +1.5V, +7.0V, and +12.0V simultaneously as three separate trials, respectively - turn on Fluke DMM and set to measure voltage; 
+4. Connect FG to proto board - set to produce 2kHz sine wave - adjust O-scope to show maximum amplitude - adjust O-scope so that the amplitude of the waves can be measured using methods outlined in Test Procedures
 
 # Test Equipment
 Fluke 115 True-RMS Multimeter - Digital Multimeter;
@@ -38,7 +38,10 @@ Tetronix TDS 2012 Two Channel Digital Storage Oscilliscope;
 Global Specialties Instruments - Function Generator
 
 # Test Procedures
-1. 
+1. Measure actual resistance of resistors with DMM probes and record those values - compare to expected values as well as tolerance values - turn off equipment;
+2. Measure actual capacitance of capacitors with DMM probes and DCM probes and record those values - compare to expected values as well as tolerance values - turn off equipment;
+3. Measure the actual voltage output of the DCPS with the DMM probes and record those valuues - compare with DCPS expected values - turn off and unplug equipment;
+4. Measure the amplitude of the sine waves using the following methods: 1) counting squares, 2) using moveable cursors, and 3) using measurement features - finally, use the 4) generic DMM, & 5) Fluke DMM to measure the voltage output by the wires on the proto board - record each value - compare instrument measurements - turn off and unplug equipment
 
 # Test Results
 In conclusion, the equipment designated and designed to measure specific quanitities was more accurate and precise in reporting values of voltage, resistance, and capacitance. Something else to note is that the quality of the measurement equipment had an impact on the accuracy of the values produced when compared to the expected values of the given electrical circuit components. When equipment is cheaper, it may not be physically capable of measuring values without error.
