@@ -41,10 +41,10 @@ Global Specialties Instruments - Function Generator
 1. Measure actual resistance of resistors with DMM probes and record those values - compare to expected values as well as tolerance values - turn off equipment;
 2. Measure actual capacitance of capacitors with DMM probes and DCM probes and record those values - compare to expected values as well as tolerance values - turn off equipment;
 3. Measure the actual voltage output of the DCPS with the DMM probes and record those valuues - compare with DCPS expected values - turn off and unplug equipment;
-4. Measure the amplitude of the sine waves using the following methods: 1) counting squares, 2) using moveable cursors, and 3) using measurement features - finally, use the 4) generic DMM, & 5) Fluke DMM to measure the voltage output by the wires on the proto board - record each value - compare instrument measurements - turn off and unplug equipment
+4. Measure the amplitude of the sine waves from peak to peak using the following methods: 1) counting squares, 2) using moveable cursors, and 3) using measurement features - finally, use the 4) generic DMM, & 5) Fluke DMM to measure the voltage output by the wires on the proto board - record each value - compare instrument measurements - turn off and unplug equipment
 
-# Test Results
+# Test Results and Lab Questions Answered
 In conclusion, the equipment designated and designed to measure specific quanitities was more accurate and precise in reporting values of voltage, resistance, and capacitance. Something else to note is that the quality of the measurement equipment had an impact on the accuracy of the values produced when compared to the expected values of the given electrical circuit components. When equipment is cheaper, it may not be physically capable of measuring values without error.
 
 # Discussion
-There were no intended alterations to the initial set up of the experiment that would impact the results.
+There were no intended alterations to the initial set up of the experiment that would impact the results. However, in future labs where resistance needs to be measured, the Fluke DMM will be used because it recorded values closest to the expected resistances. When capacitance needs to bee measured, the BK Precision 815 DCM will be used because it recorded values closest to the expected capacitances and within tolerance range. The Fluke DMM will be used to measure voltage from the DCPS because it gives a more precise reading than the scale shown on the DCPS meter. Finally, the Oscilloscope will be used to measure amplitude of sine waves because it is designed to do so and produces a voltage value more accurate than the DMM.
