@@ -1,7 +1,6 @@
 # BAE305-Sp19-Lab2
-Soldering and Reverse Engineering
 
-# Lab 2 - Introduction, DC Components, and Lab Equipment
+# Lab 2 - Soldering and Reverse Engineering
 
 # By: Jordan Luciano
 
