@@ -1,4 +1,4 @@
-# BAE305-Sp19-Lab2
+# BAE305 Spring 19
 
 # Lab 2 - Soldering and Reverse Engineering
 
